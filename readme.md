@@ -4,6 +4,10 @@ This Power BI project provides a comprehensive data-driven analysis of a fiction
 
 ---
 
+https://github.com/user-attachments/assets/449677af-eb60-4553-8d0f-2068aba84101
+
+
+
 ## 📌 Objective
 
 - Analyze Superstore sales performance across multiple years.
@@ -125,4 +129,5 @@ The Power BI dashboard provides actionable insights into various aspects of Supe
 ## author
 Email:(465755suraj@gmail.com)
 linkdin:()
+
 
